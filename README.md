@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Título do Projeto: Extremamente Aesthetic ;)
+📒 Descrição
+O projeto "Extremamente Aesthetic" consiste na criação de uma landing page em formato de eBook HTML, abordando o tema "IA em Nossa Vida". A página reúne conteúdo informativo e imagens ilustrativas, destacando a introdução à inteligência artificial, suas aplicações no cotidiano e suas futuras possibilidades.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+GPT-4: Utilizado para gerar o conteúdo textual do eBook, incluindo descrições, explicações e estrutura geral.
+HTML/CSS: Para a estrutura e estilização da página web.
+Placeholder.com: Utilizado para fornecer URLs de imagens de exemplo.
+🧐 Processo de Criação
+Definição do Conteúdo:
 
-> Woooow! Look at this 👀
+O conteúdo foi planejado para abranger três seções principais: Introdução à IA, Aplicações da IA no Cotidiano e IA e o Futuro.
+Geração do Código HTML/CSS:
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Utilizando a capacidade de geração de texto do GPT-4, o código HTML foi criado para estruturar a landing page, com divisões claras para cada seção.
+Um estilo CSS simples foi aplicado para garantir uma apresentação estética e organizada.
+Incorporação de Imagens:
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+URLs de imagens ilustrativas foram incorporadas para complementar o conteúdo textual, utilizando o serviço Placeholder.com para gerar imagens de exemplo.
+Execução do Script Python:
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Um script Python foi escrito para gerar o arquivo HTML automaticamente, consolidando todo o conteúdo e estilização.
+🚀 Resultados
+Arquivo HTML: Um arquivo HTML funcional, ebook.html, foi gerado, contendo uma landing page com conteúdo informativo e visualmente agradável sobre "IA em Nossa Vida".
+Visualização Coesa: A página é responsiva e bem estruturada, apresentando informações de maneira clara e acessível com apoio de imagens ilustrativas.
+💭 Reflexão (Opcional)
+Criar algo 'natty' (natural) com IA foi um exercício interessante que destacou o potencial e os desafios das ferramentas de geração de texto. A IA demonstrou ser uma ferramenta poderosa para estruturar e preencher conteúdo, mas a curadoria humana ainda é essencial para garantir precisão e relevância. A estética do projeto foi mantida simples, mas eficaz, mostrando como a combinação de geração de texto e codificação básica pode resultar em produtos digitais elegantes e informativos.
