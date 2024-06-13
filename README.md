@@ -7,7 +7,7 @@ O projeto "Extremamente Aesthetic" consiste na criação de uma landing page em 
 - GPT-4: Utilizado para gerar o conteúdo textual do eBook, incluindo descrições, explicações e estrutura geral.
 - HTML/CSS: Para a estrutura e estilização da página web.
 - Placeholder.com: Utilizado para fornecer URLs de imagens de exemplo.
-- 
+
 ## 🧐 Processo de Criação
 1. Definição do Conteúdo:
 - O conteúdo foi planejado para abranger três seções principais: Introdução à IA, Aplicações da IA no Cotidiano e IA e o Futuro.
